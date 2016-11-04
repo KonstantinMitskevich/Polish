@@ -1,0 +1,5 @@
+c:\users\exim\documents\visual studio 2013\Projects\lab4\lab4\bin\Debug\lab4.exe.config
+c:\users\exim\documents\visual studio 2013\Projects\lab4\lab4\bin\Debug\lab4.exe
+c:\users\exim\documents\visual studio 2013\Projects\lab4\lab4\bin\Debug\lab4.pdb
+c:\users\exim\documents\visual studio 2013\Projects\lab4\lab4\obj\Debug\lab4.exe
+c:\users\exim\documents\visual studio 2013\Projects\lab4\lab4\obj\Debug\lab4.pdb
